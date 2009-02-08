@@ -1,0 +1,16 @@
+######################################################################################################
+
+rarFinder 0.1 BETA                  Joel Shapiro (joel@joelbitar.se)
+
+Usage:  rarfinder dir dir dir [switches]
+
+Just pile the directories that you want rarfinder to check with at space as separator.
+
+<Switches>
+They all work with one or two '-' before them.
+ie: --help, -help, --h or -h
+
+help    h    Displays this message
+keep    k    Does Not delete the directories
+pack    p    Does not create a container folder for the folders in the folder. (Creates the subfolders of the pack directly in your movies folder)
+verbose v    Speak alot, I mean.. ALOT!
